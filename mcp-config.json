@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "context-server": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "d:/example/mcp-temp"
+    }
+  }
+}
